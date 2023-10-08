@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm [<a>Banuka</a> Dananjaya Subasinghe] 👋
+# Hello, I'm <b>Banuka</b> Dananjaya Subasinghe 👋
 
 <!-- Your Bio -->
 I'm an undergraduate student passionate about [Your Interests]. I love building things and experimenting with cutting-edge technologies. Here, you'll find a glimpse of my journey in the world of programming and technology.
