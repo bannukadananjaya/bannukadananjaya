@@ -7,7 +7,7 @@ I'm an undergraduate student passionate about [Your Interests]. I love building 
 <!-- Contact and Social Media Links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/banuka-subasinghe-0aa155193/)
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=[YOUR_PORTFOLIO_WEBSITE])](https://www.yourportfolio.com)-->
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=[YOUR_TWITTER_PROFILE])](https://twitter.com/[YOUR_TWITTER_PROFILE])
+<!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=[YOUR_TWITTER_PROFILE])](https://twitter.com/[YOUR_TWITTER_PROFILE])-->
 
 ## 🔧 Technologies & Tools
 - 💻 Programming Languages:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
