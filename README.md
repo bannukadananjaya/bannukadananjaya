@@ -1,8 +1,9 @@
 <!-- Your Name -->
 # Hello, I'm <b>Banuka</b> Dananjaya Subasinghe 👋
 
-<!-- Your Bio -->
-I'm an undergraduate student passionate about [Your Interests]. I love building things and experimenting with cutting-edge technologies. Here, you'll find a glimpse of my journey in the world of programming and technology.
+<!-- Your Bio -->\
+
+I'm an undergraduate student passionate about full-stack development with data analysis. I love building things and experimenting with cutting-edge technologies. Here, you'll find a glimpse of my journey in the world of programming and technology.
 
 <!-- Contact and Social Media Links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/banuka-subasinghe-0aa155193/)
