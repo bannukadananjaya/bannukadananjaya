@@ -25,9 +25,9 @@ I'm an undergraduate student passionate about [Your Interests]. I love building 
 ## 🌟 Featured Projects
 Here are some of my favorite projects that I've worked on:
 
-1. [<b>Student Management System</b>](Student App) for UOJ, FOE (Link to Project 1) - Developed for Universities to manage students, staff, and academic activities
-2. [<b>Hostel Management System for Universities</b>](Link to Project 2) - Designed a Web-based hostel management system to manage hostel rooms, relevant student details, handling room transactions, hostel canteen page, and digital notice board.
-3. [<b>Library Management System</b>](Link to Project 3) - Developed a Web-based library management system to treamline book cataloging, user management, and borrowing processes.
+1. [<b>Student Management System(Student App) for UOJ, FOE</b>] - Developed for Universities to manage students, staff, and academic activities
+2. [<b>Hostel Management System for Universities</b>] - Designed a Web-based hostel management system to manage hostel rooms, relevant student details, handling room transactions, hostel canteen page, and digital notice board.
+3. [<b>Library Management System</b>] - Developed a Web-based library management system to treamline book cataloging, user management, and borrowing processes.
 
 <!--You can explore more of my work on my [portfolio website](https://www.yourportfolio.com).-->
 
