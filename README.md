@@ -6,7 +6,7 @@ I'm an undergraduate student passionate about [Your Interests]. I love building 
 
 <!-- Contact and Social Media Links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/banuka-subasinghe-0aa155193/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=[YOUR_PORTFOLIO_WEBSITE])](https://www.yourportfolio.com)
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=[YOUR_PORTFOLIO_WEBSITE])](https://www.yourportfolio.com)-->
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=[YOUR_TWITTER_PROFILE])](https://twitter.com/[YOUR_TWITTER_PROFILE])
 
 ## 🔧 Technologies & Tools
@@ -25,24 +25,24 @@ I'm an undergraduate student passionate about [Your Interests]. I love building 
 ## 🌟 Featured Projects
 Here are some of my favorite projects that I've worked on:
 
-1. [Project 1](Link to Project 1) - Short project description.
-2. [Project 2](Link to Project 2) - Short project description.
-3. [Project 3](Link to Project 3) - Short project description.
+1. <b>Student Management System</b> (Student App) for UOJ, FOE (Link to Project 1) - Developed for Universities to manage students, staff, and academic activities
+2. Hostel Management System for Universities (Link to Project 2) - Designed a Web-based hostel management system to manage hostel rooms, relevant student details, handling room transactions, hostel canteen page, and digital notice board.
+3. Library Management System (Link to Project 3) - Developed a Web-based library management system to treamline book cataloging, user management, and borrowing processes.
 
-You can explore more of my work on my [portfolio website](https://www.yourportfolio.com).
+<!--You can explore more of my work on my [portfolio website](https://www.yourportfolio.com).-->
 
 ## 📚 Blog Posts
 I enjoy writing about what I learn. Check out some of my latest blog posts:
-
-1. [Title of Blog Post 1](Link to Blog Post 1) - A short description.
+Still Working On.....
+<!--1. [Title of Blog Post 1](Link to Blog Post 1) - A short description.
 2. [Title of Blog Post 2](Link to Blog Post 2) - A short description.
-3. [Title of Blog Post 3](Link to Blog Post 3) - A short description.
+3. [Title of Blog Post 3](Link to Blog Post 3) - A short description.-->
 
 ## 🚀 What's Next?
 I'm constantly learning and looking for new challenges. If you have a project or idea you'd like to collaborate on, feel free to reach out to me. Let's create something amazing together!
 
 ## 📬 Contact Me
-You can reach me via [email](mailto:your@email.com) for any inquiries or collaboration opportunities.
+You can reach me via [email](banukasubasinghe13@gmail.com) for any inquiries or collaboration opportunities.
 
 Thanks for visiting my GitHub profile! 😄
 
