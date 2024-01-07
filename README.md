@@ -5,8 +5,8 @@
 I'm an undergraduate student passionate about full-stack development with data analysis. I love building things and experimenting with cutting-edge technologies. Here, you'll find a glimpse of my journey in the world of programming and technology.
 
 <!-- Contact and Social Media Links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE])](https://www.linkedin.com/in/banuka-subasinghe-0aa155193/)
-<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=[YOUR_PORTFOLIO_WEBSITE])](https://www.yourportfolio.com)-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=www.linkedin.com/in/bannukadananjaya)]
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=https://bannukadananjaya.github.io/Banuka-Dananjaya/)]
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=[YOUR_TWITTER_PROFILE])](https://twitter.com/[YOUR_TWITTER_PROFILE])-->
 
 ## 🔧 Technologies & Tools
