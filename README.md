@@ -7,7 +7,7 @@ I'm an undergraduate student passionate about full-stack development with data a
 <!-- Contact and Social Media Links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/bannukadananjaya/)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=#)]https://bannukadananjaya.github.io/Banuka-Dananjaya/
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&link=#)](https://bannukadananjaya.github.io/Banuka-Dananjaya/)
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=[YOUR_TWITTER_PROFILE])](https://twitter.com/[YOUR_TWITTER_PROFILE])-->
 
 ## 🔧 Technologies & Tools
