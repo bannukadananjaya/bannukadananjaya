@@ -45,7 +45,7 @@ Still Working On.....
 I'm constantly learning and looking for new challenges. If you have a project or idea you'd like to collaborate on, feel free to reach out to me. Let's create something amazing together!
 
 ## 📬 Contact Me
-You can reach me via [email](banukasubasinghe13@gmail.com) for any inquiries or collaboration opportunities.
+You can reach me via <ul>banukasubasinghe13@gmail.com</ul> for any inquiries or collaboration opportunities.
 
 Thanks for visiting my GitHub profile! 😄
 
